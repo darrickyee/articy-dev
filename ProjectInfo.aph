@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>24A8C9C7F765C126C304053C67B848DC0A2F8D50C26BB1CA2EA59F5D781E5079</Signature>
+  <Content>
+    <Project Guid="7a1508dc-2669-4f0f-901e-46a57037c9e7">
+      <DisplayName Value="GameDev"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="b87e7a75-6b18-40c2-846b-6b0352ff77fd"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="637090771051649821"/>
+      <PartitionHash Value="76F090BF50A3922156947C5C702469A0EB01E248C6F962501D4C26E5E877D15A"/>
+      <SaveFileVersion Value="55"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
